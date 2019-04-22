@@ -2,7 +2,7 @@
 
 ## 算法题(Algorithm)
 
-- 题目：[两数之和](https://leetcode-cn.com/articles/two-sum/)
+- 题目：[两数之和](https://leetcode-cn.com/problems/two-sum/)
 - 解答：[two_num](https://github.com/SharonChiong/leetcode/blob/master/algorithms/python/two_sum/two_sum.py)
 
 ## 阅读点评(Review)
