@@ -5,6 +5,7 @@
 - 题目：[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 - 解答：[longest_palindromic_substring](https://github.com/SharonChiong/leetcode/blob/master/algorithms/python/longest_palindromic_substring/longest_palindromic_substring.py)
 
+
 ## 阅读点评(Review)
 
 #### [Quickstart tutorial](https://www.numpy.org/devdocs/user/quickstart.html)
@@ -36,7 +37,7 @@ array([[ 9, 16],
 
 ## 技术技巧(Tip)
 
-### nohup 的日志
+#### nohup 的日志
 
 `nohup` 如果没有指定日志，默认是在当前目录下创建一个 `nohup.out` 文件，然后将日志写入该文件中，有的时候，我们不需要有 nohup 的输出信息，会由一个日志模块管理。那么我们可以将日志写入 `/dev/null`
 
@@ -55,7 +56,7 @@ nohup python -u test.py > /dev/null 2>&1 &
 
 ## 分享(Share)
 
-[如何在Archlinux系统中安装MongoDB](https://zz.zzs7.top/archlinux-install-mongodb.html#more)
+#### [如何在Archlinux系统中安装MongoDB](https://zz.zzs7.top/archlinux-install-mongodb.html#more)
 
 我用的系统是 `Manjaro`, 因为 `MongoDB` 修改了软件授权协议，所以在 `Archilinux` 的官方源中已经删除了 `MongoDB`，在 `Archlinux` 的 官方 `wiki` 中建议安装 `AUR` 中的 `mongodb-bin`，或者编译安装，考虑到电脑的性能，就不采取编译安装的方式了。
 

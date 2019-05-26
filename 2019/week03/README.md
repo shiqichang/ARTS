@@ -5,6 +5,7 @@
 - 题目：[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 解答：[longest_substring_without_repeating_characters](https://github.com/SharonChiong/leetcode/blob/master/algorithms/python/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.py)
 
+
 ## 阅读点评(Review)
 
 #### [The Simple Yet Practical Data Cleaning Codes](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
@@ -26,9 +27,10 @@
 7. 特定情况下，可以拼接两列字符串；
 8. 将字符串类型转换成时间格式。
 
+
 ## 技术技巧(Tip)
 
-最近接触了 `m3u8`, 这是什么呢？
+#### 最近接触了 `m3u8`, 这是什么呢？
 
 m3u8 是一种可扩展的播放列表文件格式，存放真正的视频链接，它是一种视频列表;
 
@@ -96,9 +98,10 @@ $ tree
 0 directories, 14 files
 ```
 
+
 ## 分享(Share)
 
-这次分享的是我自己写的两篇关于 `Docker` 的学习笔记。
+#### 这次分享的是我自己写的两篇关于 `Docker` 的学习笔记。
 
 - [Docker 的学习笔记(一)](https://s7.zzs7.top/docker.html)
 - [Docker 的学习笔记(二)](https://s7.zzs7.top/docker-2.html)

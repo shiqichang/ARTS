@@ -5,6 +5,7 @@
 - 题目：[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 - 解答：[median_of_two_sorted_arrays](https://github.com/SharonChiong/leetcode/blob/master/algorithms/python/median_of_two_sorted_arrays/median_of_two_sorted_arrays.py)
 
+
 ## 阅读点评(Review)
 
 #### [Install/Deploy Instructions for Tez](http://tez.apache.org/install.html)
@@ -31,6 +32,7 @@
 
 到这里编译安装就结束了，下面的是部署`tez`的步骤，较简单不赘述了。
 
+
 ## 技术技巧(Tip)
 
 #### 修改容器中的时区
@@ -53,9 +55,10 @@ $ sudo docker exec -it [容器id或name] bash
 $ date
 ```
 
+
 ## 分享(Share)
 
-[打造高效的工作环境 - SHELL 篇](https://coolshell.cn/articles/19219.html)
+#### [打造高效的工作环境 - SHELL 篇](https://coolshell.cn/articles/19219.html)
 
 这次分享的是耗子叔的文章。
 
