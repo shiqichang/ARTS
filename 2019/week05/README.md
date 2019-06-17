@@ -20,7 +20,7 @@
 
 这里简单地介绍 `ndarray` 的 `花式索引(Fancy indexing)`：
 
-```python
+```shell
 >>> import numpy as np
 >>> a = np.arange(12)**2
 >>> i = np.array([1, 1, 3, 8, 5])
