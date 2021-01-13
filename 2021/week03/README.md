@@ -1,26 +1,10 @@
-### Week 03
+# Week 03
 
----
+## Algorithm
 
-#### Algorithm
+## Review
 
----
+## Tip
 
-
-
-#### Review
-
----
-
-
-
-#### Tip
-
----
-
-
-
-#### Share
-
----
+## Share
 
